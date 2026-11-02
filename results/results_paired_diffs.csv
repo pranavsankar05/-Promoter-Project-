@@ -1,0 +1,5 @@
+comparison,PR_AUC_diff,CI_low,CI_high,share_of_resamples_gap_positive
+B minus A,0.1467,0.0714,0.213,1.0
+B minus C,0.0547,-0.0217,0.126,0.933
+B minus Baseline (PWM sum),0.0771,0.0276,0.1287,1.0
+C minus A,0.092,0.0236,0.1613,0.996

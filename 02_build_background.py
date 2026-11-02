@@ -85,6 +85,7 @@ def main():
     print(f"Failed samples: {failed}")
     print(f"Positive share: {len(pos) / len(data):.2%}")
     print("\nMean GC:")
+    
     print(f"  promoter    {pos['sequence'].map(gc).mean():.3f}")
     print(f"  gc_matched  {neg['sequence'].map(gc).mean():.3f}")
     lo, hi = 60 - 14, 60 - 5
