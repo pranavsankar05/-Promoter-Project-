@@ -1,0 +1,7 @@
+step,count
+All promoter records,4057
+sigma70 records,2001
+With usable TSS and strand,1997
+"Evidence filter (confidence in ('S', 'C'))",708
+"Unique loci (strand, TSS)",708
+Positive windows (clean),707
