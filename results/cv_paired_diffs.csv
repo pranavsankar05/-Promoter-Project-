@@ -1,0 +1,5 @@
+comparison,mean_fold_diff,folds_a_ahead,pooled_diff,pooled_CI_low,pooled_CI_high
+B minus A,0.2521,5/5,0.2511,0.2182,0.2851
+B minus C,0.1354,5/5,0.1377,0.1038,0.1698
+B minus Baseline,0.038,5/5,0.0387,0.0163,0.0612
+C minus A,0.1168,5/5,0.1133,0.0784,0.1472
